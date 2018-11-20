@@ -176,7 +176,7 @@ img::-moz-selection {
 header.masthead {
   padding-top: 10rem;
   padding-bottom: calc(10rem - 56px);
-  background-image: url("https://github.com/IvanSibinovic/dispatcher-service-landing-page/blob/master/img/header.JPG");
+  background-image: url("https://github.com/IvanSibinovic/dispatcher-service-landing-page/blob/master/img/header.JPG?raw=true");
   background-position: center center;
   background-size: cover;
 }
